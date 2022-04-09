@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.one{
+    width: 100%;
+    height: 50px; 
+    background: white;
+    color: #030306;
+    font-family: Proxima Nova;
+    padding-left: 150px;
+    padding-top: 20px;
+    /* word-spacing: 2px; */
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+.bton{
+    color: orangered;
+    padding-right: 50px;
+    font-family: Intro;
+    font-size: 25px;
+}
+.butn{
+    padding-right: 50px;
+    font-family: PT Serif;
+}
+.bttn{
+    padding-right: 50px;
+    font-family: PT Serif;
+}
+.btton{
+    padding-right: 50px;
+    font-family: PT Serif;
+}
+.btoon{
+    padding-right: 50px;
+    font-family: PT Serif;
+}
+.two{
+    width: 100%;
+    height: 250px;
+    background-image: url(7_1574329574_lg.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.text{
+    color: aliceblue;
+    padding-left: 280px;
+    padding-top: 80px;
+    font-size: 120px;
+    font-family: Drina;
+    filter: drop-shadow(0 0 9px rgb(1, 0, 0));
+}
+.three{
+    width: 100%;
+    height: 80px;
+    background-color: white;
+    
+}
+.text1{
+    font-family: PlumbKaz;
+    padding: 40px;
+}
+.four{
+    display: flex;
+    width: 100%;
+    height: 300px;
+    background-color: white;
+    padding-left: 110px;
+    padding-top: 50px;
+}
+.blok{
+    background: url();
+    width: 340px;
+    height: 200px;
+    margin-right: 25px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.blokone{
+    background-color: rgb(249, 147, 23);
+    width: 340px;
+    height: 200px;
+    background-image: url(sky.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bloktwo{
+    background-color: rgb(252, 160, 0);
+    width: 340px;
+    height: 200px;
+    margin-left: 25px;
+    background-image: url(kirpich.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
